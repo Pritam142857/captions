@@ -1,7 +1,7 @@
 [
  {
   "input": "Hey everyone, Grant here. ",
-  "translatedText": "আরে সবাই, এখানে অনুদান. ",
+  "translatedText": "স্বাগতম সকলকে, আমি গ্র্যান্ট. ",
   "model": "nmt",
   "time_range": [
    14.979999999999999,
@@ -10,7 +10,7 @@
  },
  {
   "input": "This is the first video in a series on the essence of calculus, and I'll be publishing the following videos once per day for the next 10 days. ",
-  "translatedText": "এটি ক্যালকুলাসের সারাংশের একটি সিরিজের প্রথম ভিডিও, এবং আমি পরবর্তী 10 দিনের জন্য প্রতিদিন একবার করে নিম্নলিখিত ভিডিওগুলি প্রকাশ করব৷ এখানে লক্ষ্য, নামটিই বোঝায়, একটি দ্বিধা-দেখার যোগ্য সেটে বিষয়টির হৃদয়কে সত্যই খুঁজে বের করা।",
+  "translatedText": "এটি ক্যালকুলাসের সারাংশের একটি সিরিজের প্রথম ভিডিও, এবং আমি পরবর্তী 10 দিনের জন্য প্রতিদিন একবার করে নিম্নলিখিত ভিডিওগুলি প্রকাশ করব৷ ",
   "model": "nmt",
   "time_range": [
    16.82,
@@ -19,7 +19,7 @@
  },
  {
   "input": "The goal here, as the name suggests, is to really get the heart of the subject out in one binge-watchable set. ",
-  "translatedText": "",
+  "translatedText": " যেমনটা শিরোনাম থেকে বোঝা যায়, এখানে আমাদের লক্ষ্য, একটি ভিডিও সিরিজের মাধ্যমে, বিষয়টির হৃদয়ে প্রবেশ করা।",
   "model": "nmt",
   "time_range": [
    24.3,
@@ -46,7 +46,7 @@
  },
  {
   "input": "Lots of derivative formulas, the product rule, the chain rule, implicit differentiation, the fact that integrals and derivatives are opposite, Taylor series, just a lot of things like that. ",
-  "translatedText": "প্রচুর ডেরিভেটিভ সূত্র, পণ্যের নিয়ম, শৃঙ্খল নিয়ম, অন্তর্নিহিত পার্থক্য, এই সত্য যে অবিচ্ছেদ্য এবং ডেরিভেটিভগুলি বিপরীত, টেলর সিরিজ, এরকম অনেক কিছু।",
+  "translatedText": "প্রচুর ডেরিভেটিভ সূত্র, গুনের নিয়ম, শৃঙ্খল নিয়ম, ইমপ্লিসিট ডিফারেনশিয়েশান, এই সত্য যে ইন্টিগ্রাল এবং ডেরিভেটিভগুলি বিপরীত, টেলর সিরিজ, এরকম অনেক কিছু।",
   "model": "nmt",
   "time_range": [
    42.48,
@@ -55,7 +55,7 @@
  },
  {
   "input": "And my goal is for you to come away feeling like you could have invented calculus yourself. ",
-  "translatedText": "এবং আমার লক্ষ্য হল আপনি এমন অনুভূতি থেকে দূরে চলে আসুন যেন আপনি নিজেই ক্যালকুলাস আবিষ্কার করতে পারেন।",
+  "translatedText": "এবং আমার লক্ষ্য হল আপনার এমন অনুভূতি হোক যেন আপনি নিজেই ক্যালকুলাস আবিষ্কার করতে পারতেন।",
   "model": "nmt",
   "time_range": [
    52.96,
@@ -64,7 +64,7 @@
  },
  {
   "input": "That is, cover all those core ideas, but in a way that makes clear where they actually come from, and what they really mean, using an all-around visual approach. ",
-  "translatedText": "অর্থাৎ, সেই সমস্ত মূল ধারণাগুলিকে কভার করুন, কিন্তু এমন একটি উপায়ে যা স্পষ্ট করে যে তারা আসলে কোথা থেকে এসেছে এবং তারা আসলে কী বোঝায়, একটি চারপাশের ভিজ্যুয়াল পদ্ধতি ব্যবহার করে।",
+  "translatedText": "অর্থাৎ, সেই সমস্ত মূল ধারণাগুলিকে কভার করা, কিন্তু এমন একটি উপায়ে যা স্পষ্ট করে যে তারা আসলে কোথা থেকে এসেছে এবং তারা আসলে কী বোঝায়, একটি চারপাশের ভিজ্যুয়াল পদ্ধতি ব্যবহার করে।",
   "model": "nmt",
   "time_range": [
    57.64,
@@ -91,7 +91,7 @@
  },
  {
   "input": "In this initial video, I want to show how you might stumble into the core ideas of calculus by thinking very deeply about one specific bit of geometry, the area of a circle. ",
-  "translatedText": "এই প্রাথমিক ভিডিওতে, আমি দেখাতে চাই যে আপনি কীভাবে ক্যালকুলাসের মূল ধারণাগুলিতে হোঁচট খেতে পারেন জ্যামিতির একটি নির্দিষ্ট বিট, একটি বৃত্তের ক্ষেত্রফল সম্পর্কে গভীরভাবে চিন্তা করে৷ হয়তো আপনি জানেন যে এটি পাই বার এর ব্যাসার্ধ বর্গ, কিন্তু কেন? ",
+  "translatedText": "এই প্রাথমিক ভিডিওতে, আমি দেখাতে চাই যে আপনি কীভাবে ক্যালকুলাসের মূল ধারণাগুলিতে হোঁচট খেতে পারেন জ্যামিতির একটি নির্দিষ্ট জিনিস, একটি বৃত্তের ক্ষেত্রফল সম্পর্কে গভীরভাবে চিন্তা করে৷ ",
   "model": "nmt",
   "time_range": [
    86.82,
@@ -100,7 +100,7 @@
  },
  {
   "input": "Maybe you know that this is pi times its radius squared, but why? ",
-  "translatedText": "",
+  "translatedText": " হয়তো আপনি জানেন যে এটি পাই গুনিত ব্যাসার্ধের বর্গ, কিন্তু কেন? ",
   "model": "nmt",
   "time_range": [
    97.78,
@@ -109,7 +109,7 @@
  },
  {
   "input": "Is there a nice way to think about where this formula comes from? ",
-  "translatedText": "এই সূত্রটি কোথা থেকে আসে সে সম্পর্কে চিন্তা করার একটি সুন্দর উপায় আছে? ",
+  "translatedText": "এই সূত্রটি কোথা থেকে আসে সে সম্পর্কে চিন্তা করার কি একটি সুন্দর উপায় আছে? ",
   "model": "nmt",
   "time_range": [
    101.58,
@@ -118,7 +118,7 @@
  },
  {
   "input": "Well, contemplating this problem and leaving yourself open to exploring the interesting thoughts that come about can actually lead you to a glimpse of three big ideas in calculus, integrals, derivatives, and the fact that they're opposites. ",
-  "translatedText": "ঠিক আছে, এই সমস্যাটি নিয়ে চিন্তা করা এবং আকর্ষণীয় চিন্তাভাবনাগুলিকে অন্বেষণ করার জন্য নিজেকে উন্মুক্ত রেখে আসলে আপনি ক্যালকুলাস, ইন্টিগ্রেল, ডেরিভেটিভস এবং এগুলি বিপরীতমুখী তিনটি বড় ধারণার আভাস পেতে পারেন।",
+  "translatedText": "ঠিক আছে, এই সমস্যাটি নিয়ে চিন্তা করা এবং আকর্ষণীয় চিন্তাভাবনাগুলিকে অন্বেষণ করার জন্য নিজেকে উন্মুক্ত রেখে আসলে আপনি ইন্টিগ্রেল, ডেরিভেটিভস এবং এগুলি বিপরীতমুখী ক্যালকুলাসের এই তিনটি বড় ধারণার আভাস পেতে পারেন।",
   "model": "nmt",
   "time_range": [
    105.42,
@@ -136,7 +136,7 @@
  },
  {
   "input": "You're trying to figure out its area, and after going through a lot of paper trying different ways to chop up and rearrange the pieces of that area, many of which might lead to their own interesting observations, maybe you try out the idea of slicing up the circle into many concentric rings. ",
-  "translatedText": "আপনি এর এলাকাটি বের করার চেষ্টা করছেন, এবং অনেক কাগজের মধ্য দিয়ে যাওয়ার পরে সেই এলাকার টুকরোগুলিকে কাটা এবং পুনর্বিন্যাস করার বিভিন্ন উপায় চেষ্টা করার পরে, যার মধ্যে অনেকগুলি তাদের নিজস্ব আকর্ষণীয় পর্যবেক্ষণের দিকে নিয়ে যেতে পারে, হয়তো আপনি ধারণাটি চেষ্টা করে দেখুন বৃত্তটিকে অনেক ঘনকেন্দ্রিক রিংগুলিতে ভাগ করা।",
+  "translatedText": "আপনি এর ক্ষেত্রফল বের করার চেষ্টা করছেন, এবং অনেক কাগজের মধ্য দিয়ে যাওয়ার পরে সেই ক্ষেত্রফলের টুকরোগুলিকে কাটা এবং পুনর্বিন্যাস করার বিভিন্ন উপায় চেষ্টা করার পরে, যার মধ্যে অনেকগুলি তাদের নিজস্ব আকর্ষণীয় পর্যবেক্ষণের দিকে নিয়ে যেতে পারে, হয়তো আপনি বৃত্তটিকে অনেক এককেন্দ্রিক রিংগুলিতে ভাগ করার ধারণাটি চেষ্টা করে দেখলেন ।",
   "model": "nmt",
   "time_range": [
    125.7,
@@ -172,7 +172,7 @@
  },
  {
   "input": "Maybe you start by imagining straightening out this ring. ",
-  "translatedText": "হয়তো আপনি এই রিং সোজা আউট কল্পনা করে শুরু. ",
+  "translatedText": "হয়তো আপনি এই রিংটিকে সোজা করার কল্পনা করতে শুরু করেছেন ",
   "model": "nmt",
   "time_range": [
    166.42000000000002,
@@ -199,7 +199,7 @@
  },
  {
   "input": "I mean, that's essentially the definition of pi. ",
-  "translatedText": "আমি বলতে চাচ্ছি, যে মূলত পাই এর সংজ্ঞা।",
+  "translatedText": "আমি বলতে চাচ্ছি, যে এটাই মূলত পাই এর সংজ্ঞা।",
   "model": "nmt",
   "time_range": [
    185.86,
